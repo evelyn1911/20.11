@@ -1,0 +1,16 @@
+		.phần_đầu_trang {padding: 50px; border-style: solid; background-color: #B2D9E8;}
+		.phần_thân_trang {padding:50px; background-color:#ffff99;  border-style: solid;}
+		.phần_cuối_trang {padding: 50px;background-color: #ffff99 ; border-style: solid;}
+		.tiêu_đề_1 {color:#F26398; font-family: time new roman;}
+		.tiêu_đề_2 {color: #F26398; font-family: time new roman;}
+		.nội_dung {color: #110000; font-family: time new roman;}
+		.nội_dung_1 {color: #110000; font-family: time new roman; font-style: italic;}
+		.hiển_thị_theo_khối {display:block;}
+		.hiển_thị_theo_dòng {display:inline;}
+		.ý_kiến {background-color:#CCFFFF;}
+		.menu-danh-muc ul {list-style: none; /* Loại bỏ dấu chấm đầu dòng */padding: 0;margin: 0;}
+		.menu-danh-muc li {display: inline-block; /* Hiển thị các mục menu theo chiều ngang */margin-right: 20px; /* Khoảng cách giữa các mục menu */}
+		.menu-danh-muc a {text-decoration: none; /* Loại bỏ gạch chân liên kết */color: #333; /* Màu chữ */font-weight: bold; /* Độ đậm chữ */}
+		.menu-danh-muc a:hover {color: #007bff; /* Màu chữ khi di chuột qua */}
+		h2{color: #fe94af}
+		h0{color: #f25278; font-weight: bolder;}
